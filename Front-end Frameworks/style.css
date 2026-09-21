@@ -13,6 +13,7 @@ h1, .descricao {
     text-align: center;
 }
 
+/*
 h1 {
     padding: 50px;
 
@@ -27,9 +28,29 @@ h1 {
 
     font-size: 60px;
 }
+*/
+
+h1 {
+    padding: 50px;
+
+    background-color: red;
+    background-size: cover;
+    background-position: center;
+    background-color: repeat;
+
+    -webkit-text-stroke: 1.5px #0B1215;
+
+    border-radius: 35px;
+
+    font-size: 60px;
+}
+
+header {
+    background-color: darkred;
+}
 
 hr {
-    background-color: purple;
+    background-color: red;
     border: none;
     height: 5px;
 }
