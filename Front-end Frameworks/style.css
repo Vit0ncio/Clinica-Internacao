@@ -4,6 +4,10 @@
     color: #F5F5F5;
 }
 
-a:link {
+a:link, a:visited {
     color: #0492C2;
+}
+
+h1, .descricao {
+    text-align: center;
 }
