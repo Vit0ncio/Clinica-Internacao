@@ -23,5 +23,13 @@ h1 {
 
     -webkit-text-stroke: 1.5px #0B1215;
 
+    border-radius: 35px;
+
     font-size: 60px;
+}
+
+hr {
+    background-color: purple;
+    border: none;
+    height: 5px;
 }
