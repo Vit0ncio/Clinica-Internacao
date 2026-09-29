@@ -1,0 +1,59 @@
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    position: relative;
+    font-family: "ABC Ginto Normal Unlicensed";
+}
+
+.descricao {
+    position: relative;
+}
+
+.bt-cadastro {
+    text-align: right;
+}
+
+header {
+    background-color: #e2231a;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.esb-header {
+    font-size: 18px;
+    padding-top: 0.8em;
+    padding-left: 1em;
+}
+
+.infos-header {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    padding-top: 0.8em;
+    padding-right: 1em;
+}
+
+.apresentacao-bold {
+    font-size: 4.0em;
+    line-height: 1em;
+
+    padding-top: 0.4em;
+    padding-left: 0.4em;
+}
+
+.apresentacao-normal {
+    font-size: 1.75em;
+    padding-top: -0.4em;
+    padding-left: 1em;
+}
+
+.apresentacao-imagem {
+    width: 100px;
+    height: 100px;
+}
+
+.bt-estudar {
+    text-align: center;
+
+}
